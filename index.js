@@ -15,7 +15,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173', // for development
     // 'https://opticien-tayeb-bey-msila.netlify.app' 
-   'https://opticien-tayeb-bey-28.netlify.app'// for production
+   'https://tayeb-bay-optic.netlify.app'// for production
   ]
 }));
 
